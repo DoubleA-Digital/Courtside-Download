@@ -1,1 +1,0 @@
-import{maybeStartAnimLab as a}from"./animlab-I45EVfMf.js";import{a as o,i,o as m}from"./index-DmtSsjX1.js";export{i as Animator,o as BALL_RADIUS_M,m as defaultDribbleBall,a as maybeStartAnimLab};
